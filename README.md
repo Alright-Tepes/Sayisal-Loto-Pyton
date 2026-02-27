@@ -39,6 +39,7 @@ git clone https://github.com/Alright-Tepes/Sayisal-Loto-Pyton.git
 
 - `main.py` - Ana uygulama dosyası.
 - `README.md` - Bu dokümantasyon dosyası.
+- `start.bat` - python main.py yazmanıza gerek kalmadan çalıştırabileceğiniz BAT dosyası.
 
 ## 🛠️ Teknik Detaylar
 
