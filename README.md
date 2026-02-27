@@ -30,7 +30,7 @@ git clone https://github.com/Alright-Tepes/Sayisal-Loto-Pyton.git
    ```powershell
    python main.py
    ```
-   or
+   ya da
    ```
    start.bat
    ```
