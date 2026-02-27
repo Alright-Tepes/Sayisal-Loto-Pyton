@@ -22,11 +22,11 @@ Projeyi çalıştırmak için bilgisayarınızda Python yüklü olması yeterlid
 cd desktop
 git clone https://github.com/Alright-Tepes/Sayisal-Loto-Pyton.git
 ```
-4. Proje dizinine gidin:
+3. Proje dizinine gidin:
    ```powershell
    cd "c:\Users\Desktop\sayısal-loto-python"
    ```
-5. Scripti çalıştırın:
+4. Scripti çalıştırın:
    ```powershell
    python main.py
    ```
