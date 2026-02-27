@@ -17,11 +17,16 @@ Python ile yazılmış, şık ve animasyonlu bir Sayısal Loto sayı tahmin uygu
 Projeyi çalıştırmak için bilgisayarınızda Python yüklü olması yeterlidir.
 
 1. Terminali açın.
-2. Proje dizinine gidin:
+2. Projeyi bilgisayarına kur.
+```powershell
+cd desktop
+git clone https://github.com/Alright-Tepes/Sayisal-Loto-Pyton.git
+```
+4. Proje dizinine gidin:
    ```powershell
    cd "c:\Users\Desktop\sayısal-loto-python"
    ```
-3. Scripti çalıştırın:
+5. Scripti çalıştırın:
    ```powershell
    python main.py
    ```
